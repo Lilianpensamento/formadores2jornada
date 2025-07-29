@@ -14,11 +14,12 @@ const lista = document.querySelector ("#lista");
 lista.textContent = linguagens [0];
 lista.textContent = linguagens [1];
 lista.textContent = linguagens [2];
+lista.textContent = linguagens[n];
 
 let aluno1 = {
   nome: "Gabriel",
   idade: 13,
   anoLetivo: "2ºsérie",
   materiasFavoritas: ["Geografia","Programação","Arte"]
-  
+
 
